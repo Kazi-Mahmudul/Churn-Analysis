@@ -73,7 +73,7 @@ This project analyzes customer churn in a telecom company using **SQL, Python, M
 ---
 
 ## 📊 Power BI Dashboard Preview
-🔽 ![dashboard](https://i.postimg.cc/Y9XqHtL4/Churn-Analysis-Dashboard-page-0001.jpg)
+🔽 ![dashboard](https://i.ibb.co.com/n9kDD9r/Churn-Analysis-Dashboard-page-0001.jpg)
 
 ---
 
